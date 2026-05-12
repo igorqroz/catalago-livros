@@ -18,7 +18,7 @@ A aplicação consome uma API real para gerenciar um catálogo de livros, permit
 - **Editar Livro:** Permite carregar os dados de um livro existente de volta ao formulário para atualização.
 - **Excluir Livro:** Remove um livro específico do banco de dados através do seu ID único.
 
-## Como funciona a lógica (Visão Técnica)
+## Como funciona a lógica
 
 O projeto utiliza o conceito de **Single Page Application (SPA)** simplificada, onde as atualizações da interface ocorrem sem o recarregamento total da página.
 
